@@ -1,0 +1,433 @@
+{
+    "collections": {
+        "lectures": {
+            "publication_schema": {
+                "required_artifacts": [
+                    "slides.pdf"
+                ],
+                "optional_artifacts": [
+                    "notebook",
+                    "marked.pdf"
+                ],
+                "metadata_schema": {
+                    "optional_keys": {
+                        "videos": {
+                            "type": "list",
+                            "element_schema": {
+                                "type": "dict",
+                                "required_keys": {
+                                    "title": {
+                                        "type": "string"
+                                    },
+                                    "url": {
+                                        "type": "string"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "required_keys": {
+                        "date": {
+                            "type": "date"
+                        },
+                        "number": {
+                            "type": "integer"
+                        },
+                        "topic": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {
+                "01-intro": {
+                    "metadata": {
+                        "date": "2022-01-04",
+                        "number": 1,
+                        "topic": "Introduction and Review",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "02-dynamic_arrays": {
+                    "metadata": {
+                        "date": "2022-01-06",
+                        "number": 2,
+                        "topic": "Dynamic Arrays",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "03-heaps": {
+                    "metadata": {
+                        "date": "2022-01-11",
+                        "number": 3,
+                        "topic": "Heaps",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "04-bst": {
+                    "metadata": {
+                        "date": "2022-01-13",
+                        "number": 4,
+                        "topic": "Binary Search Trees",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "05-treaps": {
+                    "metadata": {
+                        "date": "2022-01-18",
+                        "number": 5,
+                        "topic": "Treaps",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "06-kd_trees": {
+                    "metadata": {
+                        "date": "2022-01-20",
+                        "number": 6,
+                        "topic": "k-d Trees",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "07-lsh": {
+                    "metadata": {
+                        "date": "2022-01-25",
+                        "number": 7,
+                        "topic": "Locality Sensitive Hashing",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "08-union_find": {
+                    "metadata": {
+                        "date": "2022-01-27",
+                        "number": 8,
+                        "topic": "Disjoint Set Forests",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "09-greedy": {
+                    "metadata": {
+                        "date": "2022-02-01",
+                        "number": 9,
+                        "topic": "Greedy Algorithms",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "10-backtracking": {
+                    "metadata": {
+                        "date": "2022-02-03",
+                        "number": 10,
+                        "topic": "Backtracking",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "11-dp": {
+                    "metadata": {
+                        "date": "2022-02-08",
+                        "number": 11,
+                        "topic": "Dynamic Programming, pt. I",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "12-dp-lcs": {
+                    "metadata": {
+                        "date": "2022-02-10",
+                        "number": 12,
+                        "topic": "Longest Common Subsequence",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "13-pytest": {
+                    "metadata": {
+                        "date": "2022-02-15",
+                        "number": 13,
+                        "topic": "Unit Testing (Optional)",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "14-rabin_karp": {
+                    "metadata": {
+                        "date": "2022-02-17",
+                        "number": 14,
+                        "topic": "Rabin-Karp String Matching",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "15-tries": {
+                    "metadata": {
+                        "date": "2022-02-22",
+                        "number": 15,
+                        "topic": "Tries",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "16-suffix_trees": {
+                    "metadata": {
+                        "date": "2022-02-24",
+                        "number": 16,
+                        "topic": "Suffix Trees",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "17-bloom_filters": {
+                    "metadata": {
+                        "date": "2022-03-01",
+                        "number": 17,
+                        "topic": "Bloom Filters",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "18-count_min_sketch": {
+                    "metadata": {
+                        "date": "2022-03-03",
+                        "number": 18,
+                        "topic": "Count-Min Sketch",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                },
+                "19-complexity": {
+                    "metadata": {
+                        "date": "2022-03-08",
+                        "number": 19,
+                        "topic": "Complexity Theory",
+                        "videos": []
+                    },
+                    "artifacts": {}
+                }
+            }
+        },
+        "discussions": {
+            "publication_schema": {
+                "required_artifacts": [
+                    "worksheet.pdf",
+                    "solution.pdf"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "required_keys": {
+                        "recording": {
+                            "nullable": true,
+                            "type": "string"
+                        },
+                        "date": {
+                            "type": "date"
+                        },
+                        "number": {
+                            "type": "integer"
+                        },
+                        "topic": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {
+                "01-dynamic_arrays": {
+                    "metadata": {
+                        "recording": "https://ucsd.zoom.us/rec/share/DK3xFEzA1QnNjURdkHu8NKsJrbJOzNEWga1CYCYg1s49SsIRbZRURjsW6HsXKhha.vn8pkJ-1AtjVSZD-",
+                        "date": "2022-01-07",
+                        "number": 1,
+                        "topic": "Time Complexity Analysis"
+                    },
+                    "artifacts": {}
+                },
+                "02-heaps": {
+                    "metadata": {
+                        "recording": "https://ucsd.zoom.us/rec/share/DXP2EG_upXmVCXPxqp75okdihx0aJHSniLAUh-qd3Zx0O1oR0hE448uvyrCCgape.jPNnHnAD7RNh6unf",
+                        "date": "2022-01-14",
+                        "number": 2,
+                        "topic": "Heaps"
+                    },
+                    "artifacts": {}
+                },
+                "03-treaps": {
+                    "metadata": {
+                        "recording": "https://ucsd.zoom.us/rec/share/e7EeNyi9-T_n9CdI7dHafx4MBh4HcM-QbHJK1jNlYgPmg7HOrx52jNVHwwl1iU4m.0OvGQCBnC04i8d7c",
+                        "date": "2022-01-21",
+                        "number": 3,
+                        "topic": "Time Complexity Analysis"
+                    },
+                    "artifacts": {}
+                },
+                "04-kd_trees-lsh": {
+                    "metadata": {
+                        "recording": "https://ucsd.zoom.us/rec/share/BjO3eJyEeIJpCAqko6WS3U0Nan6cf1421PP9254IJIGx7q6b6h1sCZ_kcyoX8V98.tH2MSqPT86GKsQD9",
+                        "date": "2022-01-28",
+                        "number": 4,
+                        "topic": "k-d Trees and LSH"
+                    },
+                    "artifacts": {}
+                },
+                "05-dsf-greedy": {
+                    "metadata": {
+                        "recording": "https://ucsd.zoom.us/rec/share/i52-dXVYbctMCl-o_cjfLlqeCJ46iHPPiuo6OKwVrFTW_5Ts5Pd8mzxIgFYYtLqd.hG6I2wfhM5anN-z9",
+                        "date": "2022-02-04",
+                        "number": 5,
+                        "topic": "DSFs and Greedy Algorithms"
+                    },
+                    "artifacts": {}
+                },
+                "06-backtracking-memoization": {
+                    "metadata": {
+                        "recording": "https://ucsd.zoom.us/rec/share/-M5xfb1VNsk4LXKMeJNJEfRPStg8YWk81mjT736iWPZj7-RvuIUYysSNsIb20nFt.NBCGijGEIJki6enT",
+                        "date": "2022-02-11",
+                        "number": 6,
+                        "topic": "Time Complexity Analysis"
+                    },
+                    "artifacts": {}
+                },
+                "07-tries": {
+                    "metadata": {
+                        "recording": "https://ucsd.zoom.us/rec/share/AkIxxxsIhOfyW8kqhUDTZG02XAya5kFjt-dne1mclrg1rbYKFg6zJQ1jtVq0YbIF.0zTCzE4jzB43Vh4k",
+                        "date": "2022-02-25",
+                        "number": 7,
+                        "topic": "Tries and Suffix Trees"
+                    },
+                    "artifacts": {}
+                },
+                "08-bloom": {
+                    "metadata": {
+                        "recording": "https://ucsd.zoom.us/rec/share/zcuuVJw4X9if0VDoZIEaQKgJbJNpMsan6fLZiMG0XaUnDv9QdxgeJcXv7423mmA.bnmLekTPKgqusGHA",
+                        "date": "2022-03-04",
+                        "number": 8,
+                        "topic": "Bloom Filters"
+                    },
+                    "artifacts": {}
+                }
+            }
+        },
+        "homeworks": {
+            "publication_schema": {
+                "required_artifacts": [
+                    "homework.pdf",
+                    "solution.pdf",
+                    "template.zip"
+                ],
+                "optional_artifacts": [
+                    "starter_code.zip"
+                ],
+                "metadata_schema": {
+                    "required_keys": {
+                        "due": {
+                            "type": "datetime"
+                        },
+                        "released": {
+                            "type": "datetime"
+                        },
+                        "number": {
+                            "type": "integer"
+                        },
+                        "topic": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {
+                "01-dynamic_arrays-heaps": {
+                    "metadata": {
+                        "due": "2022-01-12 23:59:00",
+                        "released": "2022-01-04 00:00:00",
+                        "number": 1,
+                        "topic": "Time Complexity Analysis"
+                    },
+                    "artifacts": {}
+                },
+                "02-treaps": {
+                    "metadata": {
+                        "due": "2022-01-19 23:59:00",
+                        "released": "2022-01-12 23:59:00",
+                        "number": 2,
+                        "topic": "Treaps"
+                    },
+                    "artifacts": {}
+                },
+                "03-nn_search": {
+                    "metadata": {
+                        "due": "2022-01-26 23:59:00",
+                        "released": "2022-01-19 23:59:00",
+                        "number": 3,
+                        "topic": "Nearest Neighbor Search"
+                    },
+                    "artifacts": {}
+                },
+                "04-dsf-greedy": {
+                    "metadata": {
+                        "due": "2022-02-02 23:59:00",
+                        "released": "2022-01-26 23:59:00",
+                        "number": 4,
+                        "topic": "Disjoint Set Forests and Greedy Algorithms"
+                    },
+                    "artifacts": {}
+                },
+                "05-dp": {
+                    "metadata": {
+                        "due": "2022-02-09 23:59:00",
+                        "released": "2022-02-02 23:59:00",
+                        "number": 5,
+                        "topic": "Dynamic Programming"
+                    },
+                    "artifacts": {}
+                },
+                "06-rabin_karp": {
+                    "metadata": {
+                        "due": "2022-02-16 23:59:00",
+                        "released": "2022-02-09 23:59:00",
+                        "number": 6,
+                        "topic": "Rabin-Karp"
+                    },
+                    "artifacts": {}
+                },
+                "07-tries-sketching": {
+                    "metadata": {
+                        "due": "2022-02-23 23:59:00",
+                        "released": "2022-02-16 23:59:00",
+                        "number": 7,
+                        "topic": "Tries, Suffix Tries, Bloom Filters, Count-Min Sketch"
+                    },
+                    "artifacts": {}
+                }
+            }
+        },
+        "default": {
+            "publication_schema": {
+                "required_artifacts": [],
+                "optional_artifacts": null,
+                "metadata_schema": null,
+                "allow_unspecified_artifacts": true,
+                "is_ordered": false
+            },
+            "publications": {
+                "exams/final": {
+                    "metadata": {
+                        "due": "2022-03-17 23:59:00"
+                    },
+                    "artifacts": {}
+                }
+            }
+        }
+    }
+}
