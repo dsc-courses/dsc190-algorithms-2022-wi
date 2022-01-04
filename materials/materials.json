@@ -47,9 +47,26 @@
                         "date": "2022-01-04",
                         "number": 1,
                         "topic": "Introduction and Review",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Introduction and Syllabus",
+                                "url": "https://youtu.be/cL3frWQsN4g"
+                            },
+                            {
+                                "title": "Review of Time Complexity Analysis",
+                                "url": "https://youtu.be/VbUMkNk0T1o"
+                            },
+                            {
+                                "title": "Review of Arrays and Linked Lists",
+                                "url": "https://youtu.be/5ZbEG8Iebe8"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/01-intro/slides.pdf"
+                        }
+                    }
                 },
                 "02-dynamic_arrays": {
                     "metadata": {
