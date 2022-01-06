@@ -398,7 +398,14 @@
                         "number": 1,
                         "topic": "Time Complexity Analysis"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/01-dynamic_arrays-heaps/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/01-dynamic_arrays-heaps/template.zip"
+                        }
+                    }
                 },
                 "02-treaps": {
                     "metadata": {
