@@ -98,6 +98,9 @@
                         },
                         "notebook": {
                             "path": "lectures/02-dynamic_arrays/notebook"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/02-dynamic_arrays/marked.pdf"
                         }
                     }
                 },
