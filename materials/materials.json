@@ -73,9 +73,33 @@
                         "date": "2022-01-06",
                         "number": 2,
                         "topic": "Dynamic Arrays",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "More about Memory",
+                                "url": "https://youtu.be/5J6UlEdvDSk"
+                            },
+                            {
+                                "title": "Motivating Dynamic Arrays",
+                                "url": "https://youtu.be/Pi28WszvaZI"
+                            },
+                            {
+                                "title": "Amortized Analysis",
+                                "url": "https://youtu.be/7Jr3IFFsLgo"
+                            },
+                            {
+                                "title": "Practicalities",
+                                "url": "https://youtu.be/nWm4cfFzXRY"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/02-dynamic_arrays/slides.pdf"
+                        },
+                        "notebook": {
+                            "path": "lectures/02-dynamic_arrays/notebook"
+                        }
+                    }
                 },
                 "03-heaps": {
                     "metadata": {
