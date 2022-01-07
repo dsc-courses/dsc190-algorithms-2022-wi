@@ -302,7 +302,7 @@
                 },
                 "02-heaps": {
                     "metadata": {
-                        "recording": "https://ucsd.zoom.us/rec/share/DXP2EG_upXmVCXPxqp75okdihx0aJHSniLAUh-qd3Zx0O1oR0hE448uvyrCCgape.jPNnHnAD7RNh6unf",
+                        "recording": null,
                         "date": "2022-01-14",
                         "number": 2,
                         "topic": "Heaps"
@@ -311,7 +311,7 @@
                 },
                 "03-treaps": {
                     "metadata": {
-                        "recording": "https://ucsd.zoom.us/rec/share/e7EeNyi9-T_n9CdI7dHafx4MBh4HcM-QbHJK1jNlYgPmg7HOrx52jNVHwwl1iU4m.0OvGQCBnC04i8d7c",
+                        "recording": null,
                         "date": "2022-01-21",
                         "number": 3,
                         "topic": "Time Complexity Analysis"
@@ -320,7 +320,7 @@
                 },
                 "04-kd_trees-lsh": {
                     "metadata": {
-                        "recording": "https://ucsd.zoom.us/rec/share/BjO3eJyEeIJpCAqko6WS3U0Nan6cf1421PP9254IJIGx7q6b6h1sCZ_kcyoX8V98.tH2MSqPT86GKsQD9",
+                        "recording": null,
                         "date": "2022-01-28",
                         "number": 4,
                         "topic": "k-d Trees and LSH"
@@ -329,7 +329,7 @@
                 },
                 "05-dsf-greedy": {
                     "metadata": {
-                        "recording": "https://ucsd.zoom.us/rec/share/i52-dXVYbctMCl-o_cjfLlqeCJ46iHPPiuo6OKwVrFTW_5Ts5Pd8mzxIgFYYtLqd.hG6I2wfhM5anN-z9",
+                        "recording": null,
                         "date": "2022-02-04",
                         "number": 5,
                         "topic": "DSFs and Greedy Algorithms"
@@ -338,7 +338,7 @@
                 },
                 "06-backtracking-memoization": {
                     "metadata": {
-                        "recording": "https://ucsd.zoom.us/rec/share/-M5xfb1VNsk4LXKMeJNJEfRPStg8YWk81mjT736iWPZj7-RvuIUYysSNsIb20nFt.NBCGijGEIJki6enT",
+                        "recording": null,
                         "date": "2022-02-11",
                         "number": 6,
                         "topic": "Time Complexity Analysis"
@@ -347,7 +347,7 @@
                 },
                 "07-tries": {
                     "metadata": {
-                        "recording": "https://ucsd.zoom.us/rec/share/AkIxxxsIhOfyW8kqhUDTZG02XAya5kFjt-dne1mclrg1rbYKFg6zJQ1jtVq0YbIF.0zTCzE4jzB43Vh4k",
+                        "recording": null,
                         "date": "2022-02-25",
                         "number": 7,
                         "topic": "Tries and Suffix Trees"
@@ -356,7 +356,7 @@
                 },
                 "08-bloom": {
                     "metadata": {
-                        "recording": "https://ucsd.zoom.us/rec/share/zcuuVJw4X9if0VDoZIEaQKgJbJNpMsan6fLZiMG0XaUnDv9QdxgeJcXv7423mmA.bnmLekTPKgqusGHA",
+                        "recording": null,
                         "date": "2022-03-04",
                         "number": 8,
                         "topic": "Bloom Filters"
