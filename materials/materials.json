@@ -289,12 +289,16 @@
             "publications": {
                 "01-dynamic_arrays": {
                     "metadata": {
-                        "recording": "https://ucsd.zoom.us/rec/share/DK3xFEzA1QnNjURdkHu8NKsJrbJOzNEWga1CYCYg1s49SsIRbZRURjsW6HsXKhha.vn8pkJ-1AtjVSZD-",
+                        "recording": null,
                         "date": "2022-01-07",
                         "number": 1,
                         "topic": "Time Complexity Analysis"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "worksheet.pdf": {
+                            "path": "discussions/01-dynamic_arrays/worksheet.pdf"
+                        }
+                    }
                 },
                 "02-heaps": {
                     "metadata": {
