@@ -265,7 +265,9 @@
                     "worksheet.pdf",
                     "solution.pdf"
                 ],
-                "optional_artifacts": [],
+                "optional_artifacts": [
+                    "tanmay.pdf"
+                ],
                 "metadata_schema": {
                     "required_keys": {
                         "recording": {
