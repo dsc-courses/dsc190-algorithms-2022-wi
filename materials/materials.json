@@ -291,7 +291,7 @@
             "publications": {
                 "01-dynamic_arrays": {
                     "metadata": {
-                        "recording": null,
+                        "recording": "https://drive.google.com/file/d/1vsIQDKn01I8L6Zwm-I4udsN5aMrWvU25/view?usp=sharing",
                         "date": "2022-01-07",
                         "number": 1,
                         "topic": "Time Complexity Analysis"
