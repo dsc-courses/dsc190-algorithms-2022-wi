@@ -7,7 +7,7 @@
                 ],
                 "optional_artifacts": [
                     "notebook",
-                    "marked.pdf"
+                    "slides-marked.pdf"
                 ],
                 "metadata_schema": {
                     "optional_keys": {
@@ -65,6 +65,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/01-intro/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/01-intro/slides-marked.pdf"
                         }
                     }
                 },
@@ -99,8 +102,8 @@
                         "notebook": {
                             "path": "lectures/02-dynamic_arrays/notebook"
                         },
-                        "marked.pdf": {
-                            "path": "lectures/02-dynamic_arrays/marked.pdf"
+                        "slides-marked.pdf": {
+                            "path": "lectures/02-dynamic_arrays/slides-marked.pdf"
                         }
                     }
                 },
@@ -109,18 +112,62 @@
                         "date": "2022-01-11",
                         "number": 3,
                         "topic": "Heaps",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Abstract Data Types",
+                                "url": "https://youtu.be/cXKhWPYgnCw"
+                            },
+                            {
+                                "title": "Priority Queues",
+                                "url": "https://youtu.be/vjMpzJbbvG4"
+                            },
+                            {
+                                "title": "Binary Heaps",
+                                "url": "https://youtu.be/h_8-O1G70ao"
+                            },
+                            {
+                                "title": "Example: Online Median",
+                                "url": "https://youtu.be/eJ_YYxUV5x8"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/03-heaps/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/03-heaps/slides-marked.pdf"
+                        }
+                    }
                 },
                 "04-bst": {
                     "metadata": {
                         "date": "2022-01-13",
                         "number": 4,
                         "topic": "Binary Search Trees",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Dynamic Sets and Hashing",
+                                "url": "https://youtu.be/oIeMbGvP45k"
+                            },
+                            {
+                                "title": "Binary Search Trees",
+                                "url": "https://youtu.be/VPMif7nwruU"
+                            },
+                            {
+                                "title": "Range Queries in BSTs",
+                                "url": "https://youtu.be/VmSMsS0LzGY"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/04-bst/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/04-bst/slides-marked.pdf"
+                        }
+                    }
                 },
                 "05-treaps": {
                     "metadata": {
