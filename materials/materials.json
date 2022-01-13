@@ -467,7 +467,11 @@
                         "number": 2,
                         "topic": "Treaps"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "starter_code.zip": {
+                            "path": "homeworks/02-treaps/starter_code.zip"
+                        }
+                    }
                 },
                 "03-nn_search": {
                     "metadata": {
