@@ -444,75 +444,87 @@
                 "is_ordered": true
             },
             "publications": {
-                "01-dynamic_arrays-heaps": {
+                "01-dynamic_arrays": {
                     "metadata": {
                         "due": "2022-01-12 23:59:00",
                         "released": "2022-01-04 00:00:00",
                         "number": 1,
-                        "topic": "Time Complexity Analysis"
+                        "topic": "Dynamic Arrays"
                     },
                     "artifacts": {
                         "homework.pdf": {
-                            "path": "homeworks/01-dynamic_arrays-heaps/homework.pdf"
+                            "path": "homeworks/01-dynamic_arrays/homework.pdf"
                         },
                         "template.zip": {
-                            "path": "homeworks/01-dynamic_arrays-heaps/template.zip"
+                            "path": "homeworks/01-dynamic_arrays/template.zip"
                         }
                     }
                 },
-                "02-treaps": {
+                "02-heaps-bst": {
                     "metadata": {
                         "due": "2022-01-19 23:59:00",
-                        "released": "2022-01-12 23:59:00",
+                        "released": "2022-01-11 00:00:00",
                         "number": 2,
-                        "topic": "Treaps"
+                        "topic": "Heaps and BSTs"
                     },
                     "artifacts": {
-                        "starter_code.zip": {
-                            "path": "homeworks/02-treaps/starter_code.zip"
+                        "homework.pdf": {
+                            "path": "homeworks/02-heaps-bst/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/02-heaps-bst/template.zip"
                         }
                     }
                 },
-                "03-nn_search": {
+                "03-treaps": {
                     "metadata": {
                         "due": "2022-01-26 23:59:00",
                         "released": "2022-01-19 23:59:00",
+                        "number": 2,
+                        "topic": "Treaps"
+                    },
+                    "artifacts": {}
+                },
+                "04-nn_search": {
+                    "metadata": {
+                        "due": "2022-02-02 23:59:00",
+                        "released": "2022-01-26 23:59:00",
                         "number": 3,
                         "topic": "Nearest Neighbor Search"
                     },
                     "artifacts": {}
                 },
-                "04-dsf-greedy": {
+                "05-dsf-greedy": {
                     "metadata": {
-                        "due": "2022-02-02 23:59:00",
-                        "released": "2022-01-26 23:59:00",
+                        "due": "2022-02-09 23:59:00",
+                        "released": "2022-02-02 23:59:00",
                         "number": 4,
                         "topic": "Disjoint Set Forests and Greedy Algorithms"
                     },
                     "artifacts": {}
                 },
-                "05-dp": {
+                "06-dp": {
                     "metadata": {
-                        "due": "2022-02-09 23:59:00",
-                        "released": "2022-02-02 23:59:00",
+                        "due": "2022-02-16 23:59:00",
+                        "released": "2022-02-09 23:59:00",
                         "number": 5,
                         "topic": "Dynamic Programming"
                     },
                     "artifacts": {}
                 },
-                "06-rabin_karp": {
+                "07-rabin_karp": {
                     "metadata": {
-                        "due": "2022-02-16 23:59:00",
-                        "released": "2022-02-09 23:59:00",
+                        "due": "2022-02-23 23:59:00",
+                        "released": "2022-02-16 23:59:00",
                         "number": 6,
                         "topic": "Rabin-Karp"
                     },
                     "artifacts": {}
                 },
-                "07-tries-sketching": {
+                "08-tries-sketching": {
                     "metadata": {
-                        "due": "2022-02-23 23:59:00",
-                        "released": "2022-02-16 23:59:00",
+                        "due": "2022-03-02 23:59:00",
+                        "released": "2022-02-23 23:59:00",
                         "number": 7,
                         "topic": "Tries, Suffix Tries, Bloom Filters, Count-Min Sketch"
                     },
