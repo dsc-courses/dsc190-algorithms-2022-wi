@@ -455,6 +455,9 @@
                         "homework.pdf": {
                             "path": "homeworks/01-dynamic_arrays/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/01-dynamic_arrays/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/01-dynamic_arrays/template.zip"
                         }
