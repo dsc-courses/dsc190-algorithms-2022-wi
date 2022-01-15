@@ -356,7 +356,11 @@
                         "number": 2,
                         "topic": "Heaps"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "worksheet.pdf": {
+                            "path": "discussions/02-heaps/worksheet.pdf"
+                        }
+                    }
                 },
                 "03-treaps": {
                     "metadata": {
