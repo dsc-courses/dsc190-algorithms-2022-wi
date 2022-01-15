@@ -473,6 +473,9 @@
                         },
                         "template.zip": {
                             "path": "homeworks/02-heaps-bst/template.zip"
+                        },
+                        "starter_code.zip": {
+                            "path": "homeworks/02-heaps-bst/starter_code.zip"
                         }
                     }
                 },
