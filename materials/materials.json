@@ -215,6 +215,9 @@
                         },
                         "notebook": {
                             "path": "lectures/05-treaps/notebook"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/05-treaps/slides-marked.pdf"
                         }
                     }
                 },
