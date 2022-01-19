@@ -174,18 +174,96 @@
                         "date": "2022-01-18",
                         "number": 5,
                         "topic": "Treaps",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/5hKrRoPOukE"
+                            },
+                            {
+                                "title": "Red-Black Trees",
+                                "url": "https://youtu.be/H46X4tuL1ps"
+                            },
+                            {
+                                "title": "Randomization to the Rescue",
+                                "url": "https://youtu.be/OIiAHgiDwtc"
+                            },
+                            {
+                                "title": "Treaps",
+                                "url": "https://youtu.be/gvYdd_btRLI"
+                            },
+                            {
+                                "title": "Properties of Treaps",
+                                "url": "https://youtu.be/wKuh16jJG1U"
+                            },
+                            {
+                                "title": "Randomized Binary Search Trees",
+                                "url": "https://youtu.be/xwSIXgbdROU"
+                            },
+                            {
+                                "title": "Order Statistic Trees",
+                                "url": "https://youtu.be/jKUQcj8w4wQ"
+                            },
+                            {
+                                "title": "Heaps vs. BSTs",
+                                "url": "https://youtu.be/YHszHAfl9xM"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/05-treaps/slides.pdf"
+                        },
+                        "demo": {
+                            "path": "lectures/05-treaps/demo"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/05-treaps/slides-marked.pdf"
+                        }
+                    }
                 },
                 "06-kd_trees": {
                     "metadata": {
                         "date": "2022-01-20",
                         "number": 6,
                         "topic": "k-d Trees",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/SBoSLrdzAn0"
+                            },
+                            {
+                                "title": "k-d Trees",
+                                "url": "https://youtu.be/sBUIzn0FwC0"
+                            },
+                            {
+                                "title": "Nearest Neighbor Queries",
+                                "url": "https://youtu.be/AHLz5JKtgLY"
+                            },
+                            {
+                                "title": "Construction",
+                                "url": "https://youtu.be/9wlvLG6q0wQ"
+                            },
+                            {
+                                "title": "The Curse of Dimensionality",
+                                "url": "https://youtu.be/82a9dTcHuN8"
+                            },
+                            {
+                                "title": "Approximate Nearest Neighbors",
+                                "url": "https://youtu.be/KXKvhJoSCbM"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/06-kd_trees/slides.pdf"
+                        },
+                        "demo": {
+                            "path": "lectures/06-kd_trees/demo"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/06-kd_trees/slides-marked.pdf"
+                        }
+                    }
                 },
                 "07-lsh": {
                     "metadata": {
@@ -351,7 +429,7 @@
                 },
                 "02-heaps": {
                     "metadata": {
-                        "recording": null,
+                        "recording": "https://drive.google.com/file/d/1srfosUJZ00fXHIS2gt40NLJ8hQxu4Xip/view?usp=sharing",
                         "date": "2022-01-14",
                         "number": 2,
                         "topic": "Heaps"
