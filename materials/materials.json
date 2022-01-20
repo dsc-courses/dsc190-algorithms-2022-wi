@@ -577,6 +577,9 @@
                         },
                         "template.zip": {
                             "path": "homeworks/03-treaps-kdtrees/template.zip"
+                        },
+                        "starter_code.zip": {
+                            "path": "homeworks/03-treaps-kdtrees/starter_code.zip"
                         }
                     }
                 },
