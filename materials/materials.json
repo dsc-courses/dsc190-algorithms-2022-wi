@@ -571,17 +571,7 @@
                         "number": 3,
                         "topic": "Treaps and KD Trees"
                     },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/03-treaps-kdtrees/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/03-treaps-kdtrees/template.zip"
-                        },
-                        "starter_code.zip": {
-                            "path": "homeworks/03-treaps-kdtrees/starter_code.zip"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "04-nn_search": {
                     "metadata": {
