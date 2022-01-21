@@ -556,6 +556,9 @@
                         "homework.pdf": {
                             "path": "homeworks/02-heaps-bst/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/02-heaps-bst/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/02-heaps-bst/template.zip"
                         },
