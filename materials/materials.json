@@ -456,7 +456,11 @@
                         "number": 4,
                         "topic": "k-d Trees and LSH"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "worksheet.pdf": {
+                            "path": "discussions/04-kd_trees-lsh/worksheet.pdf"
+                        }
+                    }
                 },
                 "05-dsf-greedy": {
                     "metadata": {
