@@ -447,7 +447,11 @@
                         "number": 3,
                         "topic": "Time Complexity Analysis"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "worksheet.pdf": {
+                            "path": "discussions/03-treaps/worksheet.pdf"
+                        }
+                    }
                 },
                 "04-kd_trees-lsh": {
                     "metadata": {
