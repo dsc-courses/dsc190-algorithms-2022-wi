@@ -270,18 +270,81 @@
                         "date": "2022-01-25",
                         "number": 7,
                         "topic": "Locality Sensitive Hashing",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/1bibGM7aGqo"
+                            },
+                            {
+                                "title": "Implementing a NN Grid",
+                                "url": "https://youtu.be/4MXTN2hrRXM"
+                            },
+                            {
+                                "title": "Randomized Grids",
+                                "url": "https://youtu.be/LUiKO1GMPtg"
+                            },
+                            {
+                                "title": "Theory of Locality Sensitive Hashing",
+                                "url": "https://youtu.be/_bYeKKpcVkg"
+                            },
+                            {
+                                "title": "The Johnson-Lindenstrauss Lemma",
+                                "url": "https://youtu.be/oOwVI3Fn7sA"
+                            },
+                            {
+                                "title": "ANN in Practice",
+                                "url": "https://youtu.be/BwnOphDhnEk"
+                            },
+                            {
+                                "title": "LSH Demo",
+                                "url": "https://youtu.be/CkPfPJQbSjg"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/07-lsh/slides.pdf"
+                        },
+                        "demo": {
+                            "path": "lectures/07-lsh/demo"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/07-lsh/slides-marked.pdf"
+                        }
+                    }
                 },
                 "08-union_find": {
                     "metadata": {
                         "date": "2022-01-27",
                         "number": 8,
                         "topic": "Disjoint Set Forests",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/A5oUnrDmxIE"
+                            },
+                            {
+                                "title": "Disjoint Set Forests",
+                                "url": "https://youtu.be/eZ9zpUVE7VY"
+                            },
+                            {
+                                "title": "Path Compression and Union-by-Rank",
+                                "url": "https://youtu.be/dhsQFj9Z9Nk"
+                            },
+                            {
+                                "title": "Analysis",
+                                "url": "https://youtu.be/CzdXoLjTye0"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/08-union_find/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/08-union_find/slides-marked.pdf"
+                        }
+                    }
                 },
                 "09-greedy": {
                     "metadata": {
@@ -585,7 +648,7 @@
                     "metadata": {
                         "due": "2022-02-02 23:59:00",
                         "released": "2022-01-26 23:59:00",
-                        "number": 3,
+                        "number": 4,
                         "topic": "Nearest Neighbor Search"
                     },
                     "artifacts": {}
@@ -594,7 +657,7 @@
                     "metadata": {
                         "due": "2022-02-09 23:59:00",
                         "released": "2022-02-02 23:59:00",
-                        "number": 4,
+                        "number": 5,
                         "topic": "Disjoint Set Forests and Greedy Algorithms"
                     },
                     "artifacts": {}
@@ -603,7 +666,7 @@
                     "metadata": {
                         "due": "2022-02-16 23:59:00",
                         "released": "2022-02-09 23:59:00",
-                        "number": 5,
+                        "number": 6,
                         "topic": "Dynamic Programming"
                     },
                     "artifacts": {}
@@ -612,7 +675,7 @@
                     "metadata": {
                         "due": "2022-02-23 23:59:00",
                         "released": "2022-02-16 23:59:00",
-                        "number": 6,
+                        "number": 7,
                         "topic": "Rabin-Karp"
                     },
                     "artifacts": {}
@@ -621,7 +684,7 @@
                     "metadata": {
                         "due": "2022-03-02 23:59:00",
                         "released": "2022-02-23 23:59:00",
-                        "number": 7,
+                        "number": 8,
                         "topic": "Tries, Suffix Tries, Bloom Filters, Count-Min Sketch"
                     },
                     "artifacts": {}
