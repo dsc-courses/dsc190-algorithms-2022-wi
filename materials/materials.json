@@ -644,14 +644,24 @@
                         }
                     }
                 },
-                "04-nn_search": {
+                "04-lsh-dsf": {
                     "metadata": {
                         "due": "2022-02-02 23:59:00",
                         "released": "2022-01-26 23:59:00",
                         "number": 4,
-                        "topic": "Nearest Neighbor Search"
+                        "topic": "Locality Sensitive Hashing and Disjoint Set Forests"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/04-lsh-dsf/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/04-lsh-dsf/template.zip"
+                        },
+                        "starter_code.zip": {
+                            "path": "homeworks/04-lsh-dsf/starter_code.zip"
+                        }
+                    }
                 },
                 "05-dsf-greedy": {
                     "metadata": {
