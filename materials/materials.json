@@ -636,6 +636,9 @@
                         "homework.pdf": {
                             "path": "homeworks/03-treaps-kdtrees/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/03-treaps-kdtrees/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/03-treaps-kdtrees/template.zip"
                         },
