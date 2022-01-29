@@ -523,7 +523,11 @@
                         "number": 4,
                         "topic": "DSFs and Greedy Algorithms"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "worksheet.pdf": {
+                            "path": "discussions/04-dsf-greedy/worksheet.pdf"
+                        }
+                    }
                 },
                 "05-backtracking-memoization": {
                     "metadata": {
