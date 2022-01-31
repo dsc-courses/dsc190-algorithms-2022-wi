@@ -351,18 +351,86 @@
                         "date": "2022-02-01",
                         "number": 9,
                         "topic": "Greedy Algorithms",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/F2_BJVuglS4"
+                            },
+                            {
+                                "title": "Optimization Problems",
+                                "url": "https://youtu.be/o1UOMJYqsKs"
+                            },
+                            {
+                                "title": "Greedy Algorithms by Example",
+                                "url": "https://youtu.be/kLXnGYyPW_M"
+                            },
+                            {
+                                "title": "Activity Selection",
+                                "url": "https://youtu.be/VljvVR7_zQU"
+                            },
+                            {
+                                "title": "Exchange Arguments",
+                                "url": "https://youtu.be/OLDU-EoX7nk"
+                            },
+                            {
+                                "title": "Minimum Spanning Trees",
+                                "url": "https://youtu.be/ctqlbG24EtQ"
+                            },
+                            {
+                                "title": "Designing Greedy Algorithms",
+                                "url": "https://youtu.be/1W3vEgZORt4"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/09-greedy/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/09-greedy/slides-marked.pdf"
+                        }
+                    }
                 },
                 "10-backtracking": {
                     "metadata": {
                         "date": "2022-02-03",
                         "number": 10,
                         "topic": "Backtracking",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/5af5Wb_16NY"
+                            },
+                            {
+                                "title": "The 0-1 Knapsack Problem",
+                                "url": "https://youtu.be/il2wxXVEUhg"
+                            },
+                            {
+                                "title": "Backtracking",
+                                "url": "https://youtu.be/BRzdtxzaxZ0"
+                            },
+                            {
+                                "title": "Efficiency Analysis",
+                                "url": "https://youtu.be/mmGij8aZdFM"
+                            },
+                            {
+                                "title": "Branch and Bound",
+                                "url": "https://youtu.be/43_HxGPnlHI"
+                            },
+                            {
+                                "title": "Summary",
+                                "url": "https://youtu.be/8JZS1yW6pUQ"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/10-backtracking/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/10-backtracking/slides-marked.pdf"
+                        }
+                    }
                 },
                 "11-dp": {
                     "metadata": {
