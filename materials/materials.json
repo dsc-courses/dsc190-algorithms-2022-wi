@@ -738,14 +738,24 @@
                         }
                     }
                 },
-                "05-dsf-greedy": {
+                "05-greedy_backtracking": {
                     "metadata": {
                         "due": "2022-02-09 23:59:00",
                         "released": "2022-02-02 23:59:00",
                         "number": 5,
                         "topic": "Disjoint Set Forests and Greedy Algorithms"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/05-greedy_backtracking/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/05-greedy_backtracking/template.zip"
+                        },
+                        "starter_code.zip": {
+                            "path": "homeworks/05-greedy_backtracking/starter_code.zip"
+                        }
+                    }
                 },
                 "06-dp": {
                     "metadata": {
