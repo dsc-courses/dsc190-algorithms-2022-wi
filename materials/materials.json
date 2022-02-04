@@ -730,6 +730,9 @@
                         "homework.pdf": {
                             "path": "homeworks/04-lsh-dsf/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/04-lsh-dsf/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/04-lsh-dsf/template.zip"
                         },
