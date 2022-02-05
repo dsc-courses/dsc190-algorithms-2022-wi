@@ -604,7 +604,11 @@
                         "number": 5,
                         "topic": "Time Complexity Analysis"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "worksheet.pdf": {
+                            "path": "discussions/05-backtracking-memoization/worksheet.pdf"
+                        }
+                    }
                 },
                 "06-tries": {
                     "metadata": {
