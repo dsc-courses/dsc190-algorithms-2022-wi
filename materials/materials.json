@@ -437,18 +437,82 @@
                         "date": "2022-02-08",
                         "number": 11,
                         "topic": "Dynamic Programming, pt. I",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/VzulM6IW264"
+                            },
+                            {
+                                "title": "The Weighted Activity Scheduling Problem",
+                                "url": "https://youtu.be/-2mb4SRM8kA"
+                            },
+                            {
+                                "title": "Step 01: Backtracking Solution",
+                                "url": "https://youtu.be/fTkhx8WTWs4"
+                            },
+                            {
+                                "title": "Step 02: A Nicer Backtracking Solution",
+                                "url": "https://youtu.be/w1iIZP8BBU0"
+                            },
+                            {
+                                "title": "Step 03: Memoization",
+                                "url": "https://youtu.be/fiuYwB6ia6Q"
+                            },
+                            {
+                                "title": "Top-Down vs. Bottom-Up",
+                                "url": "https://youtu.be/_HMCVjlm7V8"
+                            },
+                            {
+                                "title": "Summary of Dynamic Programming",
+                                "url": "https://youtu.be/R0E5ytG0blE"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/11-dp/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/11-dp/slides-marked.pdf"
+                        }
+                    }
                 },
                 "12-dp-lcs": {
                     "metadata": {
                         "date": "2022-02-10",
                         "number": 12,
                         "topic": "Longest Common Subsequence",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/z6OMnZdYNVc"
+                            },
+                            {
+                                "title": "Longest Common Subsequences",
+                                "url": "https://youtu.be/sKbyZwZD3I0"
+                            },
+                            {
+                                "title": "Step 01: Backtracking for LCS",
+                                "url": "https://youtu.be/_ErXE8gfAoE"
+                            },
+                            {
+                                "title": "Step 02: A Nicer Backtracking Solution for LCS",
+                                "url": "https://youtu.be/Y8QUpV_XnKw"
+                            },
+                            {
+                                "title": "Step 03: Top-Down DP Solution for LCS",
+                                "url": "https://youtu.be/vmzK2BJ6EJc"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/12-dp-lcs/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/12-dp-lcs/slides-marked.pdf"
+                        }
+                    }
                 },
                 "13-pytest": {
                     "metadata": {
