@@ -835,7 +835,17 @@
                         "number": 6,
                         "topic": "Dynamic Programming"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/06-dp/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/06-dp/template.zip"
+                        },
+                        "starter_code.zip": {
+                            "path": "homeworks/06-dp/starter_code.zip"
+                        }
+                    }
                 },
                 "07-rabin_karp": {
                     "metadata": {
