@@ -820,6 +820,9 @@
                         "homework.pdf": {
                             "path": "homeworks/05-greedy_backtracking/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/05-greedy_backtracking/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/05-greedy_backtracking/template.zip"
                         },
