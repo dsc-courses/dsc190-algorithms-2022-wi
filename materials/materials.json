@@ -519,18 +519,51 @@
                         "date": "2022-02-15",
                         "number": 13,
                         "topic": "Unit Testing (Optional)",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's (Optional) Lecture",
+                                "url": "https://youtu.be/nE2alAiA6LI"
+                            },
+                            {
+                                "title": "How to Test Your Homework with pytest",
+                                "url": "https://youtu.be/Ian7V7HVT0k"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/13-pytest/slides.pdf"
+                        }
+                    }
                 },
                 "14-rabin_karp": {
                     "metadata": {
                         "date": "2022-02-17",
                         "number": 14,
                         "topic": "Rabin-Karp String Matching",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "String Matching",
+                                "url": "https://youtu.be/ZcgX5Z6hsVE"
+                            },
+                            {
+                                "title": "Rabin-Karp",
+                                "url": "https://youtu.be/n_7XllhBTic"
+                            },
+                            {
+                                "title": "Rolling Hashes",
+                                "url": "https://youtu.be/GeOyK4DcW_U"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/14-rabin_karp/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/14-rabin_karp/slides-marked.pdf"
+                        }
+                    }
                 },
                 "15-tries": {
                     "metadata": {
