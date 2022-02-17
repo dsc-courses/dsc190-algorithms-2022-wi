@@ -890,7 +890,14 @@
                         "number": 7,
                         "topic": "Rabin-Karp"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/07-rabin_karp/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/07-rabin_karp/template.zip"
+                        }
+                    }
                 },
                 "08-tries-sketching": {
                     "metadata": {
