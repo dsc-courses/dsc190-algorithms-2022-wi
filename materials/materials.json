@@ -875,6 +875,9 @@
                         "homework.pdf": {
                             "path": "homeworks/06-dp/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/06-dp/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/06-dp/template.zip"
                         },
