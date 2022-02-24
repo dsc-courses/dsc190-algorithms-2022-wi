@@ -945,7 +945,7 @@
                         }
                     }
                 },
-                "08-tries-sketching": {
+                "08-tries-suffix_tries": {
                     "metadata": {
                         "due": "2022-03-02 23:59:00",
                         "released": "2022-02-23 23:59:00",
@@ -954,10 +954,10 @@
                     },
                     "artifacts": {
                         "homework.pdf": {
-                            "path": "homeworks/08-tries-sketching/homework.pdf"
+                            "path": "homeworks/08-tries-suffix_tries/homework.pdf"
                         },
                         "template.zip": {
-                            "path": "homeworks/08-tries-sketching/template.zip"
+                            "path": "homeworks/08-tries-suffix_tries/template.zip"
                         }
                     }
                 }
