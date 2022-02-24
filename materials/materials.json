@@ -952,7 +952,14 @@
                         "number": 8,
                         "topic": "Tries, Suffix Tries, Bloom Filters, Count-Min Sketch"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/08-tries-sketching/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/08-tries-sketching/template.zip"
+                        }
+                    }
                 }
             }
         },
