@@ -940,6 +940,9 @@
                         "homework.pdf": {
                             "path": "homeworks/07-rabin_karp/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/07-rabin_karp/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/07-rabin_karp/template.zip"
                         }
