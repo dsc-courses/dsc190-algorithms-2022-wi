@@ -752,12 +752,16 @@
                 },
                 "06-tries": {
                     "metadata": {
-                        "recording": null,
+                        "recording": "https://drive.google.com/file/d/1Fpxu7ZaZi7WCJWfSax4ofbN5VxtWN7A2/view?usp=sharing",
                         "date": "2022-02-18",
                         "number": 6,
                         "topic": "Tries and Suffix Trees"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "worksheet.pdf": {
+                            "path": "discussions/06-tries/worksheet.pdf"
+                        }
+                    }
                 },
                 "07-bloom": {
                     "metadata": {
