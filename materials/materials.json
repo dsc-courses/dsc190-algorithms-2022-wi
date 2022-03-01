@@ -631,18 +631,58 @@
                         "date": "2022-03-01",
                         "number": 17,
                         "topic": "Bloom Filters",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Today's Lecture",
+                                "url": "https://youtu.be/qZ2FMlnqtBo"
+                            },
+                            {
+                                "title": "Bit Arrays",
+                                "url": "https://youtu.be/UCVsSP93Xag"
+                            },
+                            {
+                                "title": "Bloom Filters",
+                                "url": "https://youtu.be/f9tJEhK3Pvg"
+                            },
+                            {
+                                "title": "Bloom Filters in Practice",
+                                "url": "https://youtu.be/31L2RKmm7us"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/17-bloom_filters/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/17-bloom_filters/slides-marked.pdf"
+                        }
+                    }
                 },
                 "18-count_min_sketch": {
                     "metadata": {
                         "date": "2022-03-03",
                         "number": 18,
                         "topic": "Count-Min Sketch",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "The Count-Min Sketch",
+                                "url": "https://youtu.be/HFWS70TkN8A"
+                            },
+                            {
+                                "title": "Designing a Count-Min Sketch",
+                                "url": "https://youtu.be/geNsco2z2vc"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/18-count_min_sketch/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/18-count_min_sketch/slides-marked.pdf"
+                        }
+                    }
                 },
                 "19-complexity": {
                     "metadata": {
