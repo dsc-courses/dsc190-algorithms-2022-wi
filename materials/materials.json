@@ -793,7 +793,7 @@
                 "06-tries": {
                     "metadata": {
                         "recording": "https://drive.google.com/file/d/1Fpxu7ZaZi7WCJWfSax4ofbN5VxtWN7A2/view?usp=sharing",
-                        "date": "2022-02-18",
+                        "date": "2022-02-25",
                         "number": 6,
                         "topic": "Tries and Suffix Trees"
                     },
@@ -806,7 +806,7 @@
                 "07-bloom": {
                     "metadata": {
                         "recording": null,
-                        "date": "2022-02-25",
+                        "date": "2022-03-04",
                         "number": 7,
                         "topic": "Bloom Filters"
                     },
