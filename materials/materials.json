@@ -1007,6 +1007,22 @@
                             "path": "homeworks/08-tries-suffix_tries/template.zip"
                         }
                     }
+                },
+                "09-bloom-sketch": {
+                    "metadata": {
+                        "due": "2022-03-09 23:59:00",
+                        "released": "2022-03-02 23:59:00",
+                        "number": 9,
+                        "topic": "Bloom Filters, Count-Min Sketch"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/09-bloom-sketch/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/09-bloom-sketch/template.zip"
+                        }
+                    }
                 }
             }
         },
