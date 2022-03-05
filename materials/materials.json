@@ -1003,6 +1003,9 @@
                         "homework.pdf": {
                             "path": "homeworks/08-tries-suffix_tries/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/08-tries-suffix_tries/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/08-tries-suffix_tries/template.zip"
                         }
