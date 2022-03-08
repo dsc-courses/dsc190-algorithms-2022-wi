@@ -689,9 +689,49 @@
                         "date": "2022-03-08",
                         "number": 19,
                         "topic": "Complexity Theory",
-                        "videos": []
+                        "videos": [
+                            {
+                                "title": "Complexity Theory",
+                                "url": "https://youtu.be/EGztdrEihSs"
+                            },
+                            {
+                                "title": "Eulerian and Hamiltonian Cycles",
+                                "url": "https://youtu.be/XsjuRZG8fqE"
+                            },
+                            {
+                                "title": "Short and Long Paths",
+                                "url": "https://youtu.be/EBjs7qBcI9A"
+                            },
+                            {
+                                "title": "Reductions",
+                                "url": "https://youtu.be/IcouVkI85s8"
+                            },
+                            {
+                                "title": "P = NP?",
+                                "url": "https://youtu.be/9exqHOqJFMw"
+                            },
+                            {
+                                "title": "NP-Complete Problems",
+                                "url": "https://youtu.be/KzC5MciZF8g"
+                            },
+                            {
+                                "title": "NP-Hard Problems",
+                                "url": "https://youtu.be/9pUZklUx8Kc"
+                            },
+                            {
+                                "title": "The Halting Problem",
+                                "url": "https://youtu.be/IeL9r4sPnGI"
+                            }
+                        ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/19-complexity/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/19-complexity/slides-marked.pdf"
+                        }
+                    }
                 }
             }
         },
