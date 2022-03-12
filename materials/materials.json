@@ -1066,6 +1066,9 @@
                         "homework.pdf": {
                             "path": "homeworks/09-bloom-sketch/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/09-bloom-sketch/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/09-bloom-sketch/template.zip"
                         }
